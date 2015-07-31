@@ -1,0 +1,5 @@
+{
+	"name": "peerjs",
+	"description": "app de prueba",
+	"main": "server.js"
+}
